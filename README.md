@@ -17,6 +17,7 @@ java TicTacToe
 
 **🔗Credits**
 Based on a tutorial by BroCode on YouTube.
+
 **💡Extended with:**
 •	AI opponent logic
 •	Scoreboard
