@@ -10,13 +10,16 @@
   •	Restart button to reset the game
 
 **⚙️How to Run**
+
   1.	Clone or download this repository.
   2.	Compile and run TicTacToe.java using any IDE.
 
 **🔗Credits**
+
   Based on a tutorial by BroCode on YouTube.
 
-**💡Extended with:**
+**💡Extended with**
+
   •	AI opponent logic
   •	Scoreboard
   •	Restart functionality
