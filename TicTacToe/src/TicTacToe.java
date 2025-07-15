@@ -164,7 +164,7 @@ public class TicTacToe implements ActionListener {
         firstTurn();
     }
 
-    // 🧠 Simple AI that picks a random empty cell
+    // Simple AI that picks a random empty cell
     public void aiMove() {
         Timer aiTimer = new Timer(500, new ActionListener() {
             public void actionPerformed(ActionEvent evt) {
